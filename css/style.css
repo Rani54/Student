@@ -1,0 +1,19 @@
+h2{
+  color : red;
+}
+.active
+{
+background-color:blue;
+}
+.navbar-top{
+	background-color: green;
+    border-radius: 0;
+    border-color: teal;
+
+.navbar-top .custom-navbar-nav > li > a{
+	color:#fff;
+}
+.navbar-top .custom-navbar-nav > li > a:hover{
+	color:#fff;
+	background-color:#000;
+}
